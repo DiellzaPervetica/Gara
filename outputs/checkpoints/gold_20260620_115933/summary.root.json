@@ -1,0 +1,122 @@
+[
+  {
+    "instance": "train_a",
+    "alpha": 1.0,
+    "vehicles": {
+      "S": 1,
+      "L": 2,
+      "M": 3
+    },
+    "mandatory_streets": 20,
+    "optional_streets": 29,
+    "connector_streets": 31,
+    "score": 0.7009432879827266,
+    "coverage": 0.7009432879827266,
+    "efficiency": 0.8290679538176147,
+    "cleaned_length": 201599,
+    "total_waste": 370.4200000000001,
+    "mandatory_cleaned": 20,
+    "optional_cleaned": 14,
+    "duplicates": 0,
+    "route_times": [
+      28352,
+      28797,
+      28608,
+      25252,
+      26844,
+      28315
+    ]
+  },
+  {
+    "instance": "train_b",
+    "alpha": 0.0,
+    "vehicles": {
+      "L": 3,
+      "S": 4,
+      "M": 3
+    },
+    "mandatory_streets": 28,
+    "optional_streets": 19,
+    "connector_streets": 43,
+    "score": 0.9677375207087805,
+    "coverage": 0.6881802701069598,
+    "efficiency": 0.9677375207087805,
+    "cleaned_length": 175391,
+    "total_waste": 89.58,
+    "mandatory_cleaned": 28,
+    "optional_cleaned": 0,
+    "duplicates": 0,
+    "route_times": [
+      27853,
+      24704,
+      18814,
+      26208,
+      18672,
+      23078,
+      24028,
+      24172,
+      26544,
+      27163
+    ]
+  },
+  {
+    "instance": "m",
+    "alpha": 0.7,
+    "vehicles": {
+      "L": 7,
+      "M": 1,
+      "S": 4
+    },
+    "mandatory_streets": 356,
+    "optional_streets": 409,
+    "connector_streets": 435,
+    "score": 0.7406772613092649,
+    "coverage": 0.6954550346679503,
+    "efficiency": 0.8461957901389989,
+    "cleaned_length": 2707460,
+    "total_waste": 5937.550000000004,
+    "mandatory_cleaned": 356,
+    "optional_cleaned": 155,
+    "duplicates": 0,
+    "route_times": [
+      224650,
+      225365,
+      223847,
+      224858,
+      224915,
+      224952,
+      224069,
+      224802,
+      224527,
+      225359,
+      224928,
+      224770
+    ]
+  },
+  {
+    "instance": "train_n",
+    "alpha": 0.5,
+    "vehicles": {
+      "L": 1,
+      "M": 2,
+      "S": 1
+    },
+    "mandatory_streets": 10,
+    "optional_streets": 22,
+    "connector_streets": 30,
+    "score": 0.9472492291765129,
+    "coverage": 0.8944984583530259,
+    "efficiency": 1.0,
+    "cleaned_length": 158981,
+    "total_waste": 0.0,
+    "mandatory_cleaned": 10,
+    "optional_cleaned": 14,
+    "duplicates": 0,
+    "route_times": [
+      38728,
+      39519,
+      39733,
+      37956
+    ]
+  }
+]

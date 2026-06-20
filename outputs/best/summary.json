@@ -1,0 +1,28 @@
+[
+  {
+    "instance": "train_n",
+    "alpha": 0.5,
+    "vehicles": {
+      "L": 1,
+      "M": 2,
+      "S": 1
+    },
+    "mandatory_streets": 10,
+    "optional_streets": 22,
+    "connector_streets": 30,
+    "score": 0.9472492291765129,
+    "coverage": 0.8944984583530259,
+    "efficiency": 1.0,
+    "cleaned_length": 158981,
+    "total_waste": 0.0,
+    "mandatory_cleaned": 10,
+    "optional_cleaned": 14,
+    "duplicates": 0,
+    "route_times": [
+      38728,
+      39519,
+      39733,
+      37956
+    ]
+  }
+]
