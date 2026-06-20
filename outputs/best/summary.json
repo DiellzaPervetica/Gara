@@ -1,28 +1,27 @@
 [
   {
-    "instance": "train_n",
+    "instance": "test_o",
     "alpha": 0.5,
     "vehicles": {
-      "L": 1,
-      "M": 2,
-      "S": 1
+      "L": 2,
+      "S": 2
     },
-    "mandatory_streets": 10,
-    "optional_streets": 22,
-    "connector_streets": 30,
-    "score": 0.9472492291765129,
-    "coverage": 0.8944984583530259,
-    "efficiency": 1.0,
-    "cleaned_length": 158981,
-    "total_waste": 0.0,
-    "mandatory_cleaned": 10,
-    "optional_cleaned": 14,
+    "mandatory_streets": 11,
+    "optional_streets": 20,
+    "connector_streets": 32,
+    "score": 0.8053245115370671,
+    "coverage": 0.7541677225153002,
+    "efficiency": 0.8564813005588339,
+    "cleaned_length": 98213,
+    "total_waste": 146.9,
+    "mandatory_cleaned": 11,
+    "optional_cleaned": 12,
     "duplicates": 0,
     "route_times": [
-      38728,
-      39519,
-      39733,
-      37956
+      39727,
+      24325,
+      40393,
+      45110
     ]
   }
 ]

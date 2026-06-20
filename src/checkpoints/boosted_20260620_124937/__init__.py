@@ -1,0 +1,1 @@
+"""Street-cleaning competition solver."""

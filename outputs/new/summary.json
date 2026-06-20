@@ -1,0 +1,79 @@
+[
+  {
+    "instance": "test_c",
+    "alpha": 0.3,
+    "vehicles": {
+      "L": 2,
+      "M": 3
+    },
+    "mandatory_streets": 16,
+    "optional_streets": 25,
+    "connector_streets": 39,
+    "score": 0.8206880063122477,
+    "coverage": 0.6019497226484126,
+    "efficiency": 0.9144329850253199,
+    "cleaned_length": 127508,
+    "total_waste": 189.07999999999998,
+    "mandatory_cleaned": 16,
+    "optional_cleaned": 9,
+    "duplicates": 0,
+    "route_times": [
+      27796,
+      28668,
+      28429,
+      28448,
+      27549
+    ]
+  },
+  {
+    "instance": "test_e",
+    "alpha": 1.0,
+    "vehicles": {
+      "L": 3,
+      "M": 2
+    },
+    "mandatory_streets": 68,
+    "optional_streets": 67,
+    "connector_streets": 65,
+    "score": 0.7729039522306536,
+    "coverage": 0.7729039522306536,
+    "efficiency": 0.47891138860138227,
+    "cleaned_length": 516204,
+    "total_waste": 3745.71,
+    "mandatory_cleaned": 68,
+    "optional_cleaned": 31,
+    "duplicates": 0,
+    "route_times": [
+      97230,
+      95681,
+      97041,
+      96076,
+      96881
+    ]
+  },
+  {
+    "instance": "test_o",
+    "alpha": 0.5,
+    "vehicles": {
+      "L": 2,
+      "S": 2
+    },
+    "mandatory_streets": 11,
+    "optional_streets": 20,
+    "connector_streets": 32,
+    "score": 0.8053245115370671,
+    "coverage": 0.7541677225153002,
+    "efficiency": 0.8564813005588339,
+    "cleaned_length": 98213,
+    "total_waste": 146.9,
+    "mandatory_cleaned": 11,
+    "optional_cleaned": 12,
+    "duplicates": 0,
+    "route_times": [
+      39727,
+      24325,
+      40393,
+      45110
+    ]
+  }
+]
